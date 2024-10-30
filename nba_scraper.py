@@ -12,6 +12,9 @@ if __name__ == "__main__":
 
     team_names = soup.get_team_names()
     local_df, visitor_df = soup.get_teams_df()
+
+    local_df.drop_rows_any_na()
+    visitor_df.drop_rows_any_na()
     
     local_df.save(f"games/{game_id}/{team_names[1]}.xlsx")
     visitor_df.save(f"games/{game_id}/{team_names[0]}.xlsx")
