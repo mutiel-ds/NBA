@@ -1,4 +1,4 @@
-from driver import Driver
+from classes.driver import Driver
 
 import sys, json, os
 
