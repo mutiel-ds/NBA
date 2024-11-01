@@ -1,0 +1,63 @@
+{
+    "Local": {
+        "Name": "Indiana Pacers",
+        "Team Stats": {
+            "PLAYER": "TOTALS",
+            "MIN": "240",
+            "FGM": "50",
+            "FGA": "104",
+            "FG%": "48.1",
+            "3PM": "15",
+            "3PA": "38",
+            "3P%": "39.5",
+            "FTM": "20",
+            "FTA": "24",
+            "FT%": "83.3",
+            "OREB": "16",
+            "DREB": "41",
+            "REB": "57",
+            "AST": "33",
+            "STL": "10",
+            "BLK": "5",
+            "TO": "18",
+            "PF": "26",
+            "PTS": "135",
+            "+/-": "3"
+        }
+    },
+    "Visitor": {
+        "Name": "Boston Celtics",
+        "Team Stats": {
+            "PLAYER": "TOTALS",
+            "MIN": "240",
+            "FGM": "44",
+            "FGA": "109",
+            "FG%": "40.4",
+            "3PM": "19",
+            "3PA": "57",
+            "3P%": "33.3",
+            "FTM": "25",
+            "FTA": "31",
+            "FT%": "80.6",
+            "OREB": "18",
+            "DREB": "33",
+            "REB": "51",
+            "AST": "23",
+            "STL": "11",
+            "BLK": "5",
+            "TO": "14",
+            "PF": "19",
+            "PTS": "132",
+            "+/-": "-3"
+        }
+    },
+    "Game Info": {
+        "Lead Changes": "8",
+        "Times Tied": "9",
+        "Date": "October 30, 2024",
+        "Location": "Gainbridge FieldhouseIndianapolisIN",
+        "Officials": "Ed Malloy, Kevin Cutler, Matt Myers",
+        "Attendance": "17,274",
+        "Gamebook": "https://statsdmz.nba.com/pdfs/20241030/20241030_BOSIND_book.pdf"
+    }
+}
